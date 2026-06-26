@@ -68,7 +68,7 @@ A full-stack application that generates original music using a PyTorch LSTM mode
 ### [Bachelor Thesis: Real-Time Communication Protocols](https://github.com/Ramziyassine123/my_alert_app)
 Comparative analysis of HTTP Long Polling, WebSockets, and Push Notifications for real-time data transmission — covering performance, latency, scalability, and appropriate use cases for each approach.
 
-`WebSockets` `HTTP` `Performance Analysis` `Protocol Design`
+`Python` `Django` `Django Channels` `WebSockets` `Firebase FCM` `Selenium` `Performance Analysis`
 
 ---
 
@@ -102,5 +102,5 @@ Contributed to the development and structural improvements of FH Aachen's ILIAS 
 ---
 
 <div align="center">
-  <em>Open to Werkstudent and junior developer roles in the Aachen, Köln, and Düsseldorf area.</em>
+  <em>Open to Werkstudent and junior developer roles in the Aachen, Köln and Düsseldorf area, or if possible Remote.</em>
 </div>
