@@ -80,12 +80,6 @@ Desktop application for modelling electric vehicle charging infrastructure scena
 
 ---
 
-### ILIAS Learning Platform
-Contributed to the development and structural improvements of FH Aachen's ILIAS e-learning platform.
-
-`PHP` `HTML/CSS` `SQL` `Web Development`
-
----
 
 ## Languages
 
