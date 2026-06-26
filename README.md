@@ -58,27 +58,33 @@ A production-grade task management REST API built with Spring Boot 3 and Java 17
 
 ---
 
-### AI Music Composition Tool
+### [AI Music Composition Tool](https://github.com/Ramziyassine123/ai-music-composer)
 A full-stack application that generates original music using a PyTorch LSTM model trained on MIDI data. Users can influence generation parameters through a React frontend; the backend exposes a FastAPI REST API and integrates LLM APIs for style prompting.
 
 `Python` `PyTorch` `FastAPI` `React` `Tone.js` `LLM APIs`
 
 ---
 
-### Bachelor Thesis: Real-Time Communication Protocols
+### [Bachelor Thesis: Real-Time Communication Protocols](https://github.com/Ramziyassine123/my_alert_app)
 Comparative analysis of HTTP Long Polling, WebSockets, and Push Notifications for real-time data transmission — covering performance, latency, scalability, and appropriate use cases for each approach.
 
 `WebSockets` `HTTP` `Performance Analysis` `Protocol Design`
 
 ---
 
-### EV Charging Infrastructure Simulator
+### [EV Charging Infrastructure Simulator](https://github.com/Ramziyassine123/praxisproject-master)
 Desktop application for modelling electric vehicle charging infrastructure scenarios. Accepts user-defined parameters to simulate and evaluate different infrastructure configurations.
 
 `Java` `Desktop Development` `Infrastructure Modelling`
 
 ---
 
+### ILIAS Learning Platform
+Contributed to the development and structural improvements of FH Aachen's ILIAS e-learning platform.
+
+`PHP` `HTML/CSS` `SQL` `Web Development`
+
+---
 
 ## Languages
 
