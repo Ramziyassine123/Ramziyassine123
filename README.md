@@ -35,6 +35,7 @@ I work primarily in Java and Python, with experience across the full stack from 
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -102,5 +103,5 @@ Contributed to the development and structural improvements of FH Aachen's ILIAS 
 ---
 
 <div align="center">
-  <em>Open to Werkstudent and junior developer roles in the Aachen, Köln and Düsseldorf area, or if possible Remote.</em>
+  <em>Open to Werkstudent and junior developer roles in the Aachen, Köln and Düsseldorf area, and also if possible, Remote.</em>
 </div>
