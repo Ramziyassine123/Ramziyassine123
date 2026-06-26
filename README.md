@@ -1,108 +1,106 @@
 <div align="center">
-  <h1>👨‍💻 Yassine Ramzi</h1>
-  <p><strong>B.Sc. Applied Mathematics and Computer Science</strong></p>
-  <p><em>Full-Stack Developer | Software Engineer | Problem Solver</em></p>
-  <p>
-    <a href="mailto:ramziyassine100@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ramziyassine100%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
-    </a>
-    <a href="https://www.linkedin.com/in/yassine-ramzi-471285267/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-    </a>
-  </p>
-  <p>📍 Aachen, Germany | 📱 +49 178 730 4414</p>
+
+# Yassine Ramzi
+
+**M.Sc. Applied Mathematics & Computer Science — FH Aachen**
+
+Backend & Full-Stack Developer · AI Enthusiast · Based in Aachen, Germany
+
+[![Email](https://img.shields.io/badge/Email-ramziyassine100%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramziyassine100@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine%20Ramzi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-ramzi-471285267/)
+
 </div>
 
-💡 About Me
-I'm a passionate computer science graduate specializing in applied mathematics and software development. With a strong foundation in both frontend and backend technologies, I thrive on building efficient, scalable solutions to complex problems.
-Current Focus:
+---
 
-🎓 Recently completed my Bachelor's thesis on real-time communication protocols (HTTP Long Polling, WebSockets, Push Notifications)
-🚀 Developing desktop and web applications with modern tech stacks
-🧠 Exploring AI integration in software systems
-🌱 Continuously learning and adapting to emerging technologies
+## About
 
+I'm a computer science graduate (B.Sc.) currently pursuing my Master's in Applied Mathematics and Computer Science at FH Aachen. I enjoy building backend systems with clean architecture, and I'm drawn to projects where software solves a real problem — whether that's managing tasks intelligently or generating music with AI.
 
-🛠️ Technical Skills
-Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-</p>
+I work primarily in Java and Python, with experience across the full stack from REST APIs and security to React frontends and machine learning models.
 
-🎯 Key Projects
-🔌 Bachelor Thesis: Real-Time Communication Analysis
-May 2025 - June 2025
-Comparative study analyzing the efficiency and use cases of HTTP Long Polling, WebSockets, and Push Notifications for real-time data transmission.
-Technologies: Research, Protocol Analysis, Performance Testing
+---
 
-⚡ Electric Vehicle Charging Infrastructure Tool
-November 2022 - February 2023
-Desktop application that accepts user inputs to create infrastructure models for developing various electric vehicle charging scenarios.
-Technologies: Java, Desktop Development, Infrastructure Modeling
+## Tech Stack
 
-🎮 Connect4 Game Development
-February 2020 - April 2020
-Developed the classic Connect4 game as part of a four-person team project, implementing game logic and user interface.
-Technologies: Java, Team Collaboration, Game Logic
+**Languages**
 
-🤖 AI Game Development
-April 2019 - July 2019
-Created a simple AI for a computer game as part of a semester project, focusing on decision-making algorithms and game strategy.
-Technologies: Python, AI Algorithms, Game Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-🌐 ILIAS Learning Platform Enhancement
-September 2018 - January 2019
-Contributed to the development and structural improvements of FH Aachen's ILIAS learning platform.
-Technologies: Web Development, PHP, HTML/CSS, SQL
+**Frameworks & Libraries**
 
-🌍 Languages
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-🇲🇦 Arabic: Native
-🇬🇧 English: Fluent
-🇫🇷 French: Fluent
-🇩🇪 German: Good written and spoken
+**Tools & Platforms**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-🎵 Beyond Code
-When I'm not coding, you'll find me:
+---
 
-🎸 Playing guitar or piano
-♟️ Strategizing over a chess board
-🏀 On the basketball court
-🎶 Exploring new music
+## Projects
 
+### [TaskFlow API](https://github.com/Ramziyassine123/taskflow)
+A production-grade task management REST API built with Spring Boot 3 and Java 17. Features JWT authentication, a custom priority scoring algorithm (weighted deadline urgency + priority + age factor), intelligent scheduling with greedy knapsack selection, RFC 7807 error handling, Swagger UI, and Docker support.
 
-📈 GitHub Stats
+`Java` `Spring Boot` `Spring Security` `JPA` `JWT` `Docker` `JUnit 5` `Mockito`
+
+---
+
+### AI Music Composition Tool
+A full-stack application that generates original music using a PyTorch LSTM model trained on MIDI data. Users can influence generation parameters through a React frontend; the backend exposes a FastAPI REST API and integrates LLM APIs for style prompting.
+
+`Python` `PyTorch` `FastAPI` `React` `Tone.js` `LLM APIs`
+
+---
+
+### Bachelor Thesis: Real-Time Communication Protocols
+Comparative analysis of HTTP Long Polling, WebSockets, and Push Notifications for real-time data transmission — covering performance, latency, scalability, and appropriate use cases for each approach.
+
+`WebSockets` `HTTP` `Performance Analysis` `Protocol Design`
+
+---
+
+### EV Charging Infrastructure Simulator
+Desktop application for modelling electric vehicle charging infrastructure scenarios. Accepts user-defined parameters to simulate and evaluate different infrastructure configurations.
+
+`Java` `Desktop Development` `Infrastructure Modelling`
+
+---
+
+### ILIAS Learning Platform
+Contributed to the development and structural improvements of FH Aachen's ILIAS e-learning platform.
+
+`PHP` `HTML/CSS` `SQL` `Web Development`
+
+---
+
+## Languages
+
+🇲🇦 Arabic — Native &nbsp;|&nbsp; 🇩🇪 German — Professional &nbsp;|&nbsp; 🇬🇧 English — Fluent &nbsp;|&nbsp; 🇫🇷 French — Fluent
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ramziyassine123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramziyassine123&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
+
+---
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <em>Open to Werkstudent and junior developer roles in the Aachen area.</em>
 </div>
-
-📫 Let's Connect!
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
-
-
-
